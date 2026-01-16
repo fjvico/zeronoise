@@ -1,4 +1,4 @@
-# ZeroNoise - News Content Filter
+# News Content Filter
 
 A lightweight userscript that filters unwanted news articles based on customizable keywords. Built for Tampermonkey/Greasemonkey browser extensions.
 
