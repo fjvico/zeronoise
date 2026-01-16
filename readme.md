@@ -2,6 +2,20 @@
 
 A lightweight userscript that filters unwanted news articles based on customizable keywords. Built for Tampermonkey/Greasemonkey browser extensions.
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [How It Works](#how-it-works)
+- [Troubleshooting](#troubleshooting)
+- [Privacy & Security](#privacy--security)
+- [Contributing](#contributing)
+- [License](#license)
+- [Credits](#credits)
+
 ## Overview
 
 ZeroNoise automatically hides news articles containing specific keywords from supported news websites. It works on both static and dynamically loaded content (infinite scroll, AJAX updates), ensuring a cleaner, quieter browsing experience.
