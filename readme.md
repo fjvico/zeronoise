@@ -39,7 +39,7 @@ zeronoise/
 │
 └── zeronoise.js           # Main userscript
     ├── Configuration      # Keywords list (edit here)
-    ├── Site Templates     # CSS selectors for each news site
+    ├── Site Templates     # CSS selectors for each news site (advanced users only)
     └── Core Logic         # Filtering and detection algorithms
 ```
 
